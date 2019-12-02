@@ -1,0 +1,17 @@
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\bin\Debug\netcoreapp3.0\SearchTextUIControl.exe
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\bin\Debug\netcoreapp3.0\SearchTextUIControl.deps.json
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\bin\Debug\netcoreapp3.0\SearchTextUIControl.runtimeconfig.json
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\bin\Debug\netcoreapp3.0\SearchTextUIControl.runtimeconfig.dev.json
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\bin\Debug\netcoreapp3.0\SearchTextUIControl.dll
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\bin\Debug\netcoreapp3.0\SearchTextUIControl.pdb
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl.csprojAssemblyReference.cache
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl_MarkupCompile.cache
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl_MarkupCompile.lref
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl.g.resources
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl.AssemblyInfoInputs.cache
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl.AssemblyInfo.cs
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl.dll
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchTextUIControl.pdb
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchBoxUI.g.cs
+C:\Users\Omer.Ozkan\source\repos\SearchTextUIControl\SearchTextUIControl\obj\Debug\netcoreapp3.0\SearchBoxUI.baml

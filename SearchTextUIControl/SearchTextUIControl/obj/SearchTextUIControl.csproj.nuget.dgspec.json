@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Omer.Ozkan\\source\\repos\\SearchTextUIControl\\SearchTextUIControl\\SearchTextUIControl.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Omer.Ozkan\\source\\repos\\SearchTextUIControl\\SearchTextUIControl\\SearchTextUIControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Omer.Ozkan\\source\\repos\\SearchTextUIControl\\SearchTextUIControl\\SearchTextUIControl.csproj",
+        "projectName": "SearchTextUIControl",
+        "projectPath": "C:\\Users\\Omer.Ozkan\\source\\repos\\SearchTextUIControl\\SearchTextUIControl\\SearchTextUIControl.csproj",
+        "packagesPath": "C:\\Users\\Omer.Ozkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omer.Ozkan\\source\\repos\\SearchTextUIControl\\SearchTextUIControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Omer.Ozkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

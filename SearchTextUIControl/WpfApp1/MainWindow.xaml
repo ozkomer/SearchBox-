@@ -1,0 +1,13 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:SearchTextUIControl="clr-namespace:SearchTextUIControl;assembly=SearchTextUIControl" xmlns:SearchTextUIControl1="clr-namespace:SearchTextUIControl" x:Class="WpfApp1.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <SearchTextUIControl1:SearchBoxUI HorizontalAlignment="Left" Height="100" Margin="185,160,0,0" VerticalAlignment="Top" Width="379" Loaded="SearchBoxUI_Loaded"/>
+    </Grid>
+</Window>
